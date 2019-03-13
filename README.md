@@ -8,4 +8,7 @@ Create a resume fast.
 4. Start the development server `npm start`.
 5. App accessable on `http://localhost:3000` use `CTRL + P` print on paper och use "save as pdf".
 
+## Example
+![demo](https://github.com/JohanG2012/CV/blob/master/__DOCS__/images/cvimage.png)
+
 Published under MIT license. Feel free to contribute by open a pull request.
