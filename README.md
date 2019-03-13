@@ -10,5 +10,6 @@ Create a resume fast.
 
 ## Example
 ![demo](https://github.com/JohanG2012/CV/blob/master/__DOCS__/images/cvimage.png)
+![demo](https://github.com/JohanG2012/CV/blob/master/__DOCS__/images/cvimage2.png)
 
 Published under MIT license. Feel free to contribute by open a pull request.
