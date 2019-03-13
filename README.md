@@ -7,3 +7,5 @@ Create a resume fast.
 3. Install dependencies `npm install`.
 4. Start the development server `npm start`.
 5. App accessable on `http://localhost:3000` use `CTRL + P` print on paper och use "save as pdf".
+
+Published under MIT license. Feel free to contribute by open a pull request.
